@@ -17,7 +17,7 @@ def teste_de_sorte():
                 print("Acertou!")
                 return True  # Retorna True se o jogador acertar
             else:
-                mensagem = (f''' ERROU, minha Avó faria melhor que isso ...
+                mensagem = (f''' ERROU, minha Avó faria melhor que isso ....
                               .___.
           /)               ,-^     ^-.
          //               /           \ 
